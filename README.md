@@ -1,8 +1,8 @@
-### Hi there 👋, Nithin7569
-#### AI & ML Engineer
+# Nithin7569
 I'm Nithin, and I'm a Machine Learning Enthusiast with an experience in the Industrial Process Optimization & Predictive Analytics. Skilled in Python, XGBoost and AWS.
 
-Skills: Python, SQL , Tableau, Data Analysis , Data Visualization,  R Programming,
+## Skills
+* 💻 Python, SQL , Tableau, Data Analysis , Data Visualization,  R Programming
 
 - 🌱 I’m currently learning Deep Learning 
 - 📫 How to reach me: https://www.linkedin.com/in/nithinreddy7569 
